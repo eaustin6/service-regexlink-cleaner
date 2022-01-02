@@ -4,9 +4,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, User, Mes
 
 Client = Client(
     "Song Downloader Bot",
-    bot_token = os.environ["BOT_TOKEN"],
-    api_id = int(os.environ["API_ID"]),
-    api_hash = os.environ["API_HASH"]
+    bot_token = os.environ["5037871155:AAFMZaXu-w8RipWP_i0surduGL9WFVUYqK0"],
+    api_id = int(os.environ["8148690"]),
+    api_hash = os.environ["0c0124510151aa918fc562b5baccc1ef"]
 )
 
 START_BUTTON = InlineKeyboardMarkup(
