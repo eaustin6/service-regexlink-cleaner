@@ -4,7 +4,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, User, Mes
 
 Client = Client(
     "Song Downloader Bot",
-    bot_token = os.environ["5037871155:AAFMZaXu-w8RipWP_i0surduGL9WFVUYqK0"],
+    bot_token = os.environ["5176057450:AAHQYEJyAIsx10jnncqCS1jZldEl8_llHCU"],
     api_id = int(os.environ["8148690"]),
     api_hash = os.environ["0c0124510151aa918fc562b5baccc1ef"]
 )
